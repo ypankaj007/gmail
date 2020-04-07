@@ -1,3 +1,3 @@
-module github.com/ypankaj007/gmail-smtp
+module github.com/ypankaj007/smtp
 
 go 1.13
