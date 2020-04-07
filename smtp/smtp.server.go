@@ -1,4 +1,4 @@
-package gmail-smtp
+package smtp
 
 import (
 	"errors"
